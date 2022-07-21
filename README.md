@@ -12,7 +12,7 @@
 
 ### Description
 
-This application will create an API for a social media network that can handle large amounts of unstructured data utilizing a NoSQL database. The user has the ability to add, delete, read, and update users, friends of users, thoughts, and reactions on those thoughts.
+This application will create an API for a social media network that can handle large amounts of unstructured data utilizing a NoSQL database. The user has the ability to add, delete, read, and update users, friends of users, thoughts, and reactions to those thoughts.
   
 ### Deployed Application Video
   
